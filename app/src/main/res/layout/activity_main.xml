@@ -42,7 +42,7 @@
 
             android:layout_height="wrap_content"
 
-            android:text="-"
+            android:text="@string/minus"
 
             android:textSize="40sp" />
 
@@ -64,7 +64,7 @@
 
             android:layout_marginBottom="16dp"
 
-            android:text="0"
+            android:text="@string/_0"
 
             android:textSize="70sp"
 
@@ -80,7 +80,7 @@
 
             android:layout_height="wrap_content"
 
-            android:text="+"
+            android:text="@string/plus"
 
             android:textSize="40sp" />
 
