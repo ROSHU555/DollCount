@@ -34,4 +34,7 @@ the app basically follows a green theme
 
 by using the application we will get the total number of customers for the entire day
 
+When a customer leave the store we can simply press the minus button and the curent count will be decresed but the total number wont be affected  by this 
+which means we can easily track both numbers
+
 
