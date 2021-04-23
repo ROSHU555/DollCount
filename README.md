@@ -30,11 +30,24 @@ the app basically follows a green theme
 
 
 
-
-
 by using the application we will get the total number of customers for the entire day
 
 When a customer leave the store we can simply press the minus button and the curent count will be decresed but the total number wont be affected  by this 
 which means we can easily track both numbers
+
+
+If you have any trouble while installing the app or while using it
+
+we are here 24*7
+
+mail-rkandamk@lakeheadu.ca
+
+phone-(807)357-6294
+
+ANGEL WING CREATORS
+
+29 Eniskillen ave Thunderbay,On
+
+
 
 
